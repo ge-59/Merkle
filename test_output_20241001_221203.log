@@ -1,0 +1,241 @@
+Compiling 2 files with 0.8.25
+Solc 0.8.25 finished in 1.65s
+Compiler run successful!
+
+Ran 1 test for test/MerkleStorageOZ.t.sol:MerkleStorageOZTest
+[PASS] testAddAndVerifySequentially() (gas: 7045341)
+Logs:
+  Added leaf 1
+  Verifying leaf 1 after adding 1 leaves. Is valid: true
+  Added leaf 2
+  Verifying leaf 1 after adding 2 leaves. Is valid: true
+  Verifying leaf 2 after adding 2 leaves. Is valid: true
+  Added leaf 3
+  Verifying leaf 1 after adding 3 leaves. Is valid: true
+  Verifying leaf 2 after adding 3 leaves. Is valid: true
+  Verifying leaf 3 after adding 3 leaves. Is valid: true
+  Added leaf 4
+  Verifying leaf 1 after adding 4 leaves. Is valid: true
+  Verifying leaf 2 after adding 4 leaves. Is valid: true
+  Verifying leaf 3 after adding 4 leaves. Is valid: true
+  Verifying leaf 4 after adding 4 leaves. Is valid: true
+  Added leaf 5
+  Verifying leaf 1 after adding 5 leaves. Is valid: true
+  Verifying leaf 2 after adding 5 leaves. Is valid: true
+  Verifying leaf 3 after adding 5 leaves. Is valid: true
+  Verifying leaf 4 after adding 5 leaves. Is valid: true
+  Verifying leaf 5 after adding 5 leaves. Is valid: true
+  Added leaf 6
+  Verifying leaf 1 after adding 6 leaves. Is valid: true
+  Verifying leaf 2 after adding 6 leaves. Is valid: true
+  Verifying leaf 3 after adding 6 leaves. Is valid: true
+  Verifying leaf 4 after adding 6 leaves. Is valid: true
+  Verifying leaf 5 after adding 6 leaves. Is valid: true
+  Verifying leaf 6 after adding 6 leaves. Is valid: true
+  Added leaf 7
+  Verifying leaf 1 after adding 7 leaves. Is valid: true
+  Verifying leaf 2 after adding 7 leaves. Is valid: true
+  Verifying leaf 3 after adding 7 leaves. Is valid: true
+  Verifying leaf 4 after adding 7 leaves. Is valid: true
+  Verifying leaf 5 after adding 7 leaves. Is valid: true
+  Verifying leaf 6 after adding 7 leaves. Is valid: true
+  Verifying leaf 7 after adding 7 leaves. Is valid: true
+  Added leaf 8
+  Verifying leaf 1 after adding 8 leaves. Is valid: true
+  Verifying leaf 2 after adding 8 leaves. Is valid: true
+  Verifying leaf 3 after adding 8 leaves. Is valid: true
+  Verifying leaf 4 after adding 8 leaves. Is valid: true
+  Verifying leaf 5 after adding 8 leaves. Is valid: true
+  Verifying leaf 6 after adding 8 leaves. Is valid: true
+  Verifying leaf 7 after adding 8 leaves. Is valid: true
+  Verifying leaf 8 after adding 8 leaves. Is valid: true
+  Added leaf 9
+  Verifying leaf 1 after adding 9 leaves. Is valid: true
+  Verifying leaf 2 after adding 9 leaves. Is valid: true
+  Verifying leaf 3 after adding 9 leaves. Is valid: true
+  Verifying leaf 4 after adding 9 leaves. Is valid: true
+  Verifying leaf 5 after adding 9 leaves. Is valid: true
+  Verifying leaf 6 after adding 9 leaves. Is valid: true
+  Verifying leaf 7 after adding 9 leaves. Is valid: true
+  Verifying leaf 8 after adding 9 leaves. Is valid: true
+  Verifying leaf 9 after adding 9 leaves. Is valid: true
+  Added leaf 10
+  Verifying leaf 1 after adding 10 leaves. Is valid: true
+  Verifying leaf 2 after adding 10 leaves. Is valid: true
+  Verifying leaf 3 after adding 10 leaves. Is valid: true
+  Verifying leaf 4 after adding 10 leaves. Is valid: true
+  Verifying leaf 5 after adding 10 leaves. Is valid: true
+  Verifying leaf 6 after adding 10 leaves. Is valid: true
+  Verifying leaf 7 after adding 10 leaves. Is valid: true
+  Verifying leaf 8 after adding 10 leaves. Is valid: true
+  Verifying leaf 9 after adding 10 leaves. Is valid: true
+  Verifying leaf 10 after adding 10 leaves. Is valid: true
+  Added leaf 11
+  Verifying leaf 1 after adding 11 leaves. Is valid: true
+  Verifying leaf 2 after adding 11 leaves. Is valid: true
+  Verifying leaf 3 after adding 11 leaves. Is valid: true
+  Verifying leaf 4 after adding 11 leaves. Is valid: true
+  Verifying leaf 5 after adding 11 leaves. Is valid: true
+  Verifying leaf 6 after adding 11 leaves. Is valid: true
+  Verifying leaf 7 after adding 11 leaves. Is valid: true
+  Verifying leaf 8 after adding 11 leaves. Is valid: true
+  Verifying leaf 9 after adding 11 leaves. Is valid: true
+  Verifying leaf 10 after adding 11 leaves. Is valid: true
+  Verifying leaf 11 after adding 11 leaves. Is valid: true
+  Added leaf 12
+  Verifying leaf 1 after adding 12 leaves. Is valid: true
+  Verifying leaf 2 after adding 12 leaves. Is valid: true
+  Verifying leaf 3 after adding 12 leaves. Is valid: true
+  Verifying leaf 4 after adding 12 leaves. Is valid: true
+  Verifying leaf 5 after adding 12 leaves. Is valid: true
+  Verifying leaf 6 after adding 12 leaves. Is valid: true
+  Verifying leaf 7 after adding 12 leaves. Is valid: true
+  Verifying leaf 8 after adding 12 leaves. Is valid: true
+  Verifying leaf 9 after adding 12 leaves. Is valid: true
+  Verifying leaf 10 after adding 12 leaves. Is valid: true
+  Verifying leaf 11 after adding 12 leaves. Is valid: true
+  Verifying leaf 12 after adding 12 leaves. Is valid: true
+  Added leaf 13
+  Verifying leaf 1 after adding 13 leaves. Is valid: true
+  Verifying leaf 2 after adding 13 leaves. Is valid: true
+  Verifying leaf 3 after adding 13 leaves. Is valid: true
+  Verifying leaf 4 after adding 13 leaves. Is valid: true
+  Verifying leaf 5 after adding 13 leaves. Is valid: true
+  Verifying leaf 6 after adding 13 leaves. Is valid: true
+  Verifying leaf 7 after adding 13 leaves. Is valid: true
+  Verifying leaf 8 after adding 13 leaves. Is valid: true
+  Verifying leaf 9 after adding 13 leaves. Is valid: true
+  Verifying leaf 10 after adding 13 leaves. Is valid: true
+  Verifying leaf 11 after adding 13 leaves. Is valid: true
+  Verifying leaf 12 after adding 13 leaves. Is valid: true
+  Verifying leaf 13 after adding 13 leaves. Is valid: true
+  Added leaf 14
+  Verifying leaf 1 after adding 14 leaves. Is valid: true
+  Verifying leaf 2 after adding 14 leaves. Is valid: true
+  Verifying leaf 3 after adding 14 leaves. Is valid: true
+  Verifying leaf 4 after adding 14 leaves. Is valid: true
+  Verifying leaf 5 after adding 14 leaves. Is valid: true
+  Verifying leaf 6 after adding 14 leaves. Is valid: true
+  Verifying leaf 7 after adding 14 leaves. Is valid: true
+  Verifying leaf 8 after adding 14 leaves. Is valid: true
+  Verifying leaf 9 after adding 14 leaves. Is valid: true
+  Verifying leaf 10 after adding 14 leaves. Is valid: true
+  Verifying leaf 11 after adding 14 leaves. Is valid: true
+  Verifying leaf 12 after adding 14 leaves. Is valid: true
+  Verifying leaf 13 after adding 14 leaves. Is valid: true
+  Verifying leaf 14 after adding 14 leaves. Is valid: true
+  Added leaf 15
+  Verifying leaf 1 after adding 15 leaves. Is valid: true
+  Verifying leaf 2 after adding 15 leaves. Is valid: true
+  Verifying leaf 3 after adding 15 leaves. Is valid: true
+  Verifying leaf 4 after adding 15 leaves. Is valid: true
+  Verifying leaf 5 after adding 15 leaves. Is valid: true
+  Verifying leaf 6 after adding 15 leaves. Is valid: true
+  Verifying leaf 7 after adding 15 leaves. Is valid: true
+  Verifying leaf 8 after adding 15 leaves. Is valid: true
+  Verifying leaf 9 after adding 15 leaves. Is valid: true
+  Verifying leaf 10 after adding 15 leaves. Is valid: true
+  Verifying leaf 11 after adding 15 leaves. Is valid: true
+  Verifying leaf 12 after adding 15 leaves. Is valid: true
+  Verifying leaf 13 after adding 15 leaves. Is valid: true
+  Verifying leaf 14 after adding 15 leaves. Is valid: true
+  Verifying leaf 15 after adding 15 leaves. Is valid: true
+  Added leaf 16
+  Verifying leaf 1 after adding 16 leaves. Is valid: true
+  Verifying leaf 2 after adding 16 leaves. Is valid: true
+  Verifying leaf 3 after adding 16 leaves. Is valid: true
+  Verifying leaf 4 after adding 16 leaves. Is valid: true
+  Verifying leaf 5 after adding 16 leaves. Is valid: true
+  Verifying leaf 6 after adding 16 leaves. Is valid: true
+  Verifying leaf 7 after adding 16 leaves. Is valid: true
+  Verifying leaf 8 after adding 16 leaves. Is valid: true
+  Verifying leaf 9 after adding 16 leaves. Is valid: true
+  Verifying leaf 10 after adding 16 leaves. Is valid: true
+  Verifying leaf 11 after adding 16 leaves. Is valid: true
+  Verifying leaf 12 after adding 16 leaves. Is valid: true
+  Verifying leaf 13 after adding 16 leaves. Is valid: true
+  Verifying leaf 14 after adding 16 leaves. Is valid: true
+  Verifying leaf 15 after adding 16 leaves. Is valid: true
+  Verifying leaf 16 after adding 16 leaves. Is valid: true
+  Added leaf 17
+  Verifying leaf 1 after adding 17 leaves. Is valid: true
+  Verifying leaf 2 after adding 17 leaves. Is valid: true
+  Verifying leaf 3 after adding 17 leaves. Is valid: true
+  Verifying leaf 4 after adding 17 leaves. Is valid: true
+  Verifying leaf 5 after adding 17 leaves. Is valid: true
+  Verifying leaf 6 after adding 17 leaves. Is valid: true
+  Verifying leaf 7 after adding 17 leaves. Is valid: true
+  Verifying leaf 8 after adding 17 leaves. Is valid: true
+  Verifying leaf 9 after adding 17 leaves. Is valid: true
+  Verifying leaf 10 after adding 17 leaves. Is valid: true
+  Verifying leaf 11 after adding 17 leaves. Is valid: true
+  Verifying leaf 12 after adding 17 leaves. Is valid: true
+  Verifying leaf 13 after adding 17 leaves. Is valid: true
+  Verifying leaf 14 after adding 17 leaves. Is valid: true
+  Verifying leaf 15 after adding 17 leaves. Is valid: true
+  Verifying leaf 16 after adding 17 leaves. Is valid: true
+  Verifying leaf 17 after adding 17 leaves. Is valid: true
+  Added leaf 18
+  Verifying leaf 1 after adding 18 leaves. Is valid: true
+  Verifying leaf 2 after adding 18 leaves. Is valid: true
+  Verifying leaf 3 after adding 18 leaves. Is valid: true
+  Verifying leaf 4 after adding 18 leaves. Is valid: true
+  Verifying leaf 5 after adding 18 leaves. Is valid: true
+  Verifying leaf 6 after adding 18 leaves. Is valid: true
+  Verifying leaf 7 after adding 18 leaves. Is valid: true
+  Verifying leaf 8 after adding 18 leaves. Is valid: true
+  Verifying leaf 9 after adding 18 leaves. Is valid: true
+  Verifying leaf 10 after adding 18 leaves. Is valid: true
+  Verifying leaf 11 after adding 18 leaves. Is valid: true
+  Verifying leaf 12 after adding 18 leaves. Is valid: true
+  Verifying leaf 13 after adding 18 leaves. Is valid: true
+  Verifying leaf 14 after adding 18 leaves. Is valid: true
+  Verifying leaf 15 after adding 18 leaves. Is valid: true
+  Verifying leaf 16 after adding 18 leaves. Is valid: true
+  Verifying leaf 17 after adding 18 leaves. Is valid: true
+  Verifying leaf 18 after adding 18 leaves. Is valid: true
+  Added leaf 19
+  Verifying leaf 1 after adding 19 leaves. Is valid: true
+  Verifying leaf 2 after adding 19 leaves. Is valid: true
+  Verifying leaf 3 after adding 19 leaves. Is valid: true
+  Verifying leaf 4 after adding 19 leaves. Is valid: true
+  Verifying leaf 5 after adding 19 leaves. Is valid: true
+  Verifying leaf 6 after adding 19 leaves. Is valid: true
+  Verifying leaf 7 after adding 19 leaves. Is valid: true
+  Verifying leaf 8 after adding 19 leaves. Is valid: true
+  Verifying leaf 9 after adding 19 leaves. Is valid: true
+  Verifying leaf 10 after adding 19 leaves. Is valid: true
+  Verifying leaf 11 after adding 19 leaves. Is valid: true
+  Verifying leaf 12 after adding 19 leaves. Is valid: true
+  Verifying leaf 13 after adding 19 leaves. Is valid: true
+  Verifying leaf 14 after adding 19 leaves. Is valid: true
+  Verifying leaf 15 after adding 19 leaves. Is valid: true
+  Verifying leaf 16 after adding 19 leaves. Is valid: true
+  Verifying leaf 17 after adding 19 leaves. Is valid: true
+  Verifying leaf 18 after adding 19 leaves. Is valid: true
+  Verifying leaf 19 after adding 19 leaves. Is valid: true
+  Added leaf 20
+  Verifying leaf 1 after adding 20 leaves. Is valid: true
+  Verifying leaf 2 after adding 20 leaves. Is valid: true
+  Verifying leaf 3 after adding 20 leaves. Is valid: true
+  Verifying leaf 4 after adding 20 leaves. Is valid: true
+  Verifying leaf 5 after adding 20 leaves. Is valid: true
+  Verifying leaf 6 after adding 20 leaves. Is valid: true
+  Verifying leaf 7 after adding 20 leaves. Is valid: true
+  Verifying leaf 8 after adding 20 leaves. Is valid: true
+  Verifying leaf 9 after adding 20 leaves. Is valid: true
+  Verifying leaf 10 after adding 20 leaves. Is valid: true
+  Verifying leaf 11 after adding 20 leaves. Is valid: true
+  Verifying leaf 12 after adding 20 leaves. Is valid: true
+  Verifying leaf 13 after adding 20 leaves. Is valid: true
+  Verifying leaf 14 after adding 20 leaves. Is valid: true
+  Verifying leaf 15 after adding 20 leaves. Is valid: true
+  Verifying leaf 16 after adding 20 leaves. Is valid: true
+  Verifying leaf 17 after adding 20 leaves. Is valid: true
+  Verifying leaf 18 after adding 20 leaves. Is valid: true
+  Verifying leaf 19 after adding 20 leaves. Is valid: true
+  Verifying leaf 20 after adding 20 leaves. Is valid: true
+
+Suite result: ok. 1 passed; 0 failed; 0 skipped; finished in 31.60ms (31.07ms CPU time)
+
+Ran 1 test suite in 41.84ms (31.60ms CPU time): 1 tests passed, 0 failed, 0 skipped (1 total tests)
