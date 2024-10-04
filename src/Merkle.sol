@@ -7,7 +7,7 @@ import {console} from "forge-std/console.sol";
 /// @title MerkleStorage
 /// @notice A contract for storing and verifying elements in a Merkle tree
 /// @dev This contract allows adding leaves to a Merkle tree, updating the root, and verifying leaf inclusion
-contract MerkleStorage {
+contract Merkle {
     bytes32[] private leafArray;
     bytes32 private merkleRoot;
 
